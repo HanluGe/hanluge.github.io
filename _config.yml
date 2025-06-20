@@ -1,6 +1,6 @@
 title: Hanlu Ge
 description: Personal site
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 # Optional: Add navigation (Jekyll themes like Minimal will pick this up)
 navigation:
@@ -8,3 +8,6 @@ navigation:
     url: /
   - title: About
     url: /about
+
+plugins:
+  - jekyll-feed
