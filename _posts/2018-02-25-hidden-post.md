@@ -2,6 +2,7 @@
 title: "Data Platform for Quantitative Research"
 hidden: true
 last_modified_at:
+excerpt: “A modular data platform built to streamline quantitative research workflows — integrating intraday and fundamental data from APIs like yFinance and Quandl, with custom factor generation, volatility-adjusted signals, and efficient storage in Parquet. Ideal for scalable backtesting and data-driven strategy development.”
 ---
 
 
