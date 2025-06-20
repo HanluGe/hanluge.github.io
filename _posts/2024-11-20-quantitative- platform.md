@@ -1,8 +1,12 @@
 ---
 title: "Data Platform for Quantitative Research"
 author: Hanlu
-hidden: true
+date: 2024-11-20
 layout: post 
+read_time: true
+show_date: true
+comments: true
+share: true
 last_modified_at:
 excerpt: “A modular data platform built to streamline quantitative research workflows — integrating intraday and fundamental data from APIs like yFinance and Quandl, with custom factor generation, volatility-adjusted signals, and efficient storage in Parquet. Ideal for scalable backtesting and data-driven strategy development.”
 ---
@@ -28,13 +32,15 @@ This project introduces a **modular quantitative research data platform** that s
    - Price Prediction
    - Financial Statement Analysis
 
-## Features
+
+## Realized Features
 
 - Query and clean stock-level time series (e.g. `close`, `volume`, `EPS`)
 - Merge alternative data (e.g. news) with structured financial indicators
 - Use customizable event windows and aggregation logic for event studies
 - Store processed datasets with versioning and timestamping
 - Compatible with third-party APIs and manual uploads
+
 
 ## Event Study: Example Usage
 
