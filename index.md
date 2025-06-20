@@ -3,18 +3,12 @@ layout: default
 title: Home
 ---
 
-# 🧠 Hanlu Ge
-Quantitative Researcher | FinTech | Machine Learning
+# 👋 Hi, I'm Hanlu Ge
 
-## 🎯 About Me
-I am a financial engineer with a focus on quantitative alpha strategies and intraday signal construction.  
-Passionate about combining financial theory with data-driven research.
+Welcome to my personal website!
 
-## 📌 Projects
-- **Volatility-Adjusted Strategy**: A regime-aware long-short model that adapts to market conditions.
-- **News-Based Event Study**: Intraday impact modeling using FinBERT sentiment and high-frequency price data.
-- **Learning-to-Rank Alphas**: Applied XGBoost ranking models to cross-sectional factor selection on SP1500.
+I'm a quant researcher passionate about alpha modeling, event studies, and financial data platforms.
 
-## 🌐 Links
-[GitHub](https://github.com/HanluGe)  
-
+- 📧 Email: hanluge@uchicago.edu  
+- 💼 [GitHub](https://github.com/HanluGe)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link/)
