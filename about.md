@@ -1,12 +1,7 @@
 ---
-layout: default
+layout: page
 title: About
-nav_order: 2
+permalink: /about
 ---
 
-# 🧠 About Me
-
-I’m passionate about building scalable quant platforms and working with intraday data.
-
-🎓 UChicago  
-💻 Python, Alpha modeling, XGBoost, Event studies
+This is the about section. Write your bio, education, interests, or any personal details here.

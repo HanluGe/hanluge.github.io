@@ -1,12 +1,6 @@
 ---
-layout: default
-title: Home
-nav_order: 1
+layout: home
+limit: 10
+show_excerpts: true
+entries_layout: list
 ---
-
-# 👋 Hi, I'm Hanlu Ge
-
-Welcome to my personal site.  
-Quant researcher interested in financial modeling, signals, and strategy.
-
-[Learn more → About Me](./about)
