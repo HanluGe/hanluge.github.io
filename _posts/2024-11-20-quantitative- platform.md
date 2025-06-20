@@ -47,7 +47,7 @@ This project introduces a **modular quantitative research data platform** that s
 The platform enables event-driven analysis such as price reactions to news or earnings releases. The following example shows how to run an intraday **Event Study** on Apple Inc. (AAPL):
 
 
-```python
+```bash
 # Initialize modules
 event_study = EventStudy(...)
 
