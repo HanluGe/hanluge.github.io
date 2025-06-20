@@ -1,11 +1,12 @@
 ---
 layout: default
 title: About
+nav_order: 2
 ---
 
-## 📄 About Me
+# 🧠 About Me
 
-I am a financial engineer from the University of Chicago, focusing on quantitative alpha strategies, time-series modeling, and machine learning for financial data.
+I’m passionate about building scalable quant platforms and working with intraday data.
 
-Email: hanluge@uchicago.edu  
-Resume: [PDF](/assets/resume.pdf)
+🎓 UChicago  
+💻 Python, Alpha modeling, XGBoost, Event studies

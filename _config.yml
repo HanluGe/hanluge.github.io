@@ -1,3 +1,10 @@
 title: Hanlu Ge
-description: Personal website and quant research portfolio
+description: Personal site
 theme: jekyll-theme-minimal
+
+# Optional: Add navigation (Jekyll themes like Minimal will pick this up)
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
