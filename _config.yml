@@ -134,3 +134,8 @@ footer_links:
   # - title: Feed
   #   url: atom.xml
   #   icon: fas fa-rss-square
+
+# So Simple theme supports adding custom CSS
+# Append your stylesheet after theme styles
+custom_css:
+  - /assets/css/custom.css

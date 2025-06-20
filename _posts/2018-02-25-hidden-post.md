@@ -36,18 +36,6 @@ This project introduces a **modular quantitative research data platform** that s
 - Store processed datasets with versioning and timestamping
 - Compatible with third-party APIs and manual uploads
 
-## Example Usage
-
-```python
-from dataworkbench import TimeSeriesQuery
-
-# Get 1-min price data for AAPL between two dates
-ts = TimeSeriesQuery("AAPL").fetch(start="2023-01-01", end="2023-01-10")
-
-# Clean and compute log returns
-ts["log_return"] = np.log(ts["close"]).diff()
-```
-
 ## Event Study: Example Usage
 
 The platform enables event-driven analysis such as price reactions to news or earnings releases. The following example shows how to run an intraday **Event Study** on Apple Inc. (AAPL):

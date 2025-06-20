@@ -1,0 +1,8 @@
+/* custom.css — override code block font size */
+pre, code {
+    font-size: 0.9em !important; /* or 13px or whatever you prefer */
+  }
+  
+  .highlight pre {
+    font-size: 0.9em !important;
+  }
