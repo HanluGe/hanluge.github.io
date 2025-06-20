@@ -17,8 +17,8 @@
 remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "So Simple Development Site"
-description: "A simple Jekyll theme for words and pictures."
+title: "Hanlu | Quant Research & Applied ML"
+description: "Building with data, learning with people. If that’s your thing too — let’s connect."
 baseurl: "" # the subpath of your site, e.g. "/blog"
 url: "https://hanluge.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
@@ -38,7 +38,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: mmistakes # site's Twitter username
+  username: # mmistakes # site's Twitter username
 
 # Liquid
 liquid:
@@ -56,9 +56,9 @@ paginate_path: /page:num/
 # Search
 search_full_content: false
 
-# Taxonomy pages
-category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
+# # Taxonomy pages
+# category_archive_path: "/categories/#"
+# tag_archive_path: "/tags/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
